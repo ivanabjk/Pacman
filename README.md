@@ -10,7 +10,7 @@ Pac-Man is a maze game where you guide a yellow character through corridors fill
 - The game ends when you run out of lives.
 
 <p align="center">
-  <img src="Assets/Screenshots/Playthrough.png" alt="GamePlay" width="400"/>
+  <img src="Assets/Screenshots/Playthrough.png" alt="GamePlay" width="600"/>
 </p>
 
 <p align="center">

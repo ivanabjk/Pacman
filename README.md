@@ -9,14 +9,16 @@ Pac-Man is a maze game where you guide a yellow character through corridors fill
 - Watch out: if a ghost touches you while it’s not blue, you lose a life.
 - The game ends when you run out of lives.
 
-![Gameplay Screenshot](Assets/Screenshots/Playthrough.png)
-
 <p align="center">
-  <img src="Assets/Screenshots/PacmanEaten.png" alt="GamePlay" width="250"/>
-  <img src="Assets/Screenshots/PowerPelletActivated.png" alt="PowerPellet" width="250"/>
+  <img src="Assets/Screenshots/Playthrough.png" alt="GamePlay" width="400"/>
 </p>
 
 <p align="center">
-  <img src="Assets/Screenshots/GameOver.png" alt="GameOver" width="250"/>
-  <img src="Assets/Screenshots/Winner.png" alt="Winner" width="250"/>
+  <img src="Assets/Screenshots/PacmanEaten.png" alt="PacmanEaten" width="300"/>
+  <img src="Assets/Screenshots/PowerPelletActivated.png" alt="PowerPellet" width="300"/>
+</p>
+
+<p align="center">
+  <img src="Assets/Screenshots/GameOver.png" alt="GameOver" width="300"/>
+  <img src="Assets/Screenshots/Winner.png" alt="Winner" width="300"/>
 </p>

@@ -13,7 +13,7 @@ Pac-Man is a maze game where you guide a yellow character through corridors fill
 
 <p align="center">
   <img src="Assets/Screenshots/PacmanEaten.png" alt="GamePlay" width="250"/>
-  <img src="Assets/Screenshots/PowerPelletActivated" alt="PowerPellet" width="250"/>
+  <img src="Assets/Screenshots/PowerPelletActivated.png" alt="PowerPellet" width="250"/>
 </p>
 
 <p align="center">
